@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "id": "Investments",
+      "isDefault": false
+    },
+    {
+      "id": "WealthWizard Web Page",
+      "isDefault": false
+    },
+    {
+      "id": "Transactions",
+      "isDefault": false
+    },
+    {
+      "id": "WealthWizards HomePage",
+      "isDefault": false
+    },
+    {
+      "id": "WealthWizard App",
+      "isDefault": true
+    },
+    {
+      "id": "Goals",
+      "isDefault": false
+    },
+    {
+      "id": "Budgets",
+      "isDefault": false
+    },
+    {
+      "id": "Profile",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "660ea9fa12691102691f0a1a",
+  "color": "#ECECEC",
+  "icon": "bag",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
